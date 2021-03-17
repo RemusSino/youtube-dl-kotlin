@@ -1,0 +1,5 @@
+Requires java, youtube-dl and ffmpeg installed
+
+Add the urls in the file `urls`, each on a separate line
+
+Then run `./gradlew run`
